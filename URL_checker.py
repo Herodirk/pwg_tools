@@ -35,6 +35,9 @@ and that you understand that this is a run at your own risk program.
 The GNU GPL does state that you automatically agree to the terms if you edit the code in any way (see TERMS AND CONDITIONS 9).
 
 Usage:
+copy the code from this Github repository to a .py file on your device
+do not run this program on github
+I suggest using a code editor and interpreter like VScode 
 run the file to load the functions
 then use the url_generator_and_checker or google_search_urls functions to check URLs
 
